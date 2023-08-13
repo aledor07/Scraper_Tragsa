@@ -7,7 +7,8 @@ Scraper para la obtención de ofertas de empleo de la web de Tragsa y su envío 
    "ID_OFERTAS.txt" donde se guardarán los IDs de las ofertas enviadas previamente.
 
 ### Screenshots
-  ![Ejemplo_scraper_tragsa](https://github.com/aledor07/Scraper_Tragsa/assets/86531400/559b3527-2ebb-4c85-8ab8-ff726eb46042)
+
+![Ejemplo_scraper_tragsa](https://github.com/aledor07/Scraper_Tragsa/assets/86531400/85bc9358-ea43-4549-a5d7-c53f7da0ce98)
 
 
 
